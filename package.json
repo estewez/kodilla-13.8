@@ -1,0 +1,15 @@
+{
+  "name": "kodilla-13.8",
+  "version": "1.0.0",
+  "description": "kodilla-13.8",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "13.8"
+  ],
+  "author": "Tomasz Pajor",
+  "license": "ISC"
+}
